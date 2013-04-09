@@ -7,3 +7,6 @@
 [submodule "libs/backbone"]
 	path = libs/backbone
 	url = git://github.com/documentcloud/backbone.git
+[submodule "libs/knockback"]
+	path = libs/knockback
+	url = git://github.com/kmalakoff/knockback.git

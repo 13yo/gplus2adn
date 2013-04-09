@@ -1,12 +1,8 @@
 [submodule "libs/json2"]
 	path = libs/json2
 	url = git://github.com/douglascrockford/JSON-js.git
-[submodule "libs/underscore"]
-	path = libs/underscore
-	url = git://github.com/documentcloud/underscore.git
-[submodule "libs/backbone"]
-	path = libs/backbone
-	url = git://github.com/documentcloud/backbone.git
 [submodule "libs/knockback"]
+	
 	path = libs/knockback
+	
 	url = git://github.com/kmalakoff/knockback.git
